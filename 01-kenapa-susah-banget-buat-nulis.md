@@ -16,7 +16,6 @@ Apakah hal kaya gini ngebantu gua buat mulai menulis?
 
 Entahlah. Tapi ya, semoga aja.
 
-Tulisan-tulisan ini bakal gua namain dengan format YYYY-MM-DD_HH:mm.md. Jadi gua gampang sortir berdasarkan waktu.
 Kayanya gua coba paksa buat nulis rutin kaya gini kedepannya. Setiap hari. Isinya tentang apa aja yang gua pikirin sehari itu.
 
 Oke, gua akhiri dulu tulisan pertama hari ini. Sampai ketemu lagi besok, semangat dong nulisnya.
