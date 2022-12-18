@@ -3,7 +3,7 @@ layout: post
 title:  "Kenapa Susah Banget Buat Nulis?"
 ---
 
-# Kenapa Susah Banget Buat Nulis?
+# {{ page.title }}
 
 Di sini gua mau coba tuangin pikiran gua lewat tulisan, gua bakal coba ga peduli soal estetika/keindahan tulisan ini.
 
