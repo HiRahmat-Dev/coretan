@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Apa Tujuan Belajar Teori?"
+---
+
+# {{ page.title }}
+
 Barusan gua nonton video post ig, sutradara film dirty vote Zainal A. Mochtar menjelaskan "Apa gunanya kita belajar teori?"
 Ini menarik banget buat gua karena agak satu persepsi gitu.
 
