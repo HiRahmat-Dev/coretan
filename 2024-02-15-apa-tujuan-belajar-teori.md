@@ -6,6 +6,8 @@ title:  "Apa Tujuan Belajar Teori?"
 # {{ page.title }}
 
 Barusan gua nonton video post ig, sutradara film dirty vote Zainal A. Mochtar menjelaskan "Apa gunanya kita belajar teori?"
+[<img src="https://github.com/HiRahmatDev/coretan-hidup/assets/55150659/26a0efed-c435-4e23-b428-b61f5d842ecb" alt="thumbnail postingan Apa gunanya kita belajar teori?" style="width:200px;"/>](https://www.instagram.com/reel/C214WVjLDds/)
+
 Ini menarik banget buat gua karena agak satu persepsi gitu.
 
 Gua kemarin2 sempet diskusi sama Istri terkait _emotional self development_ kita, bahas tentang emosi dan perilakunya. Kaya emosi dan perilaku itu seringkali kita samakan, padahal menurut gua BEDA. 
