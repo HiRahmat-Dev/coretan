@@ -1,0 +1,1 @@
+- [Apa Tujuan Belajar Teori?](https://hirahmatdev.github.io/coretan-hidup/apa-tujuan-belajar-teori)
