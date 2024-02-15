@@ -1,1 +1,2 @@
+- [Kenapa Susah Banget buat Nulis?](https://hirahmatdev.github.io/coretan-hidup/2022-11-25-kenapa-susah-banget-buat-nulis)
 - [Apa Tujuan Belajar Teori?](https://hirahmatdev.github.io/coretan-hidup/apa-tujuan-belajar-teori)
