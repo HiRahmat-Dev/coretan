@@ -7,9 +7,9 @@ title:  "Rangkuman Fiqih Tarawih"
 
 Di hari senin, tepatnya tanggal 11 bulan maret 2024 ini gw mau merangkum hasil belajar fiqih tarawih singkat di media-media online.
 
-Sumber: https://muslim.or.id/39630-fikih-ringkas-shalat-tarawih.html
+Sumber: [https://muslim.or.id/39630-fikih-ringkas-shalat-tarawih.html](https://muslim.or.id/39630-fikih-ringkas-shalat-tarawih.html)
 
-Penulis tidak menjamin ke-valid-an isi rangkuman ini, bertujuan sebagai dokumentasi diri pribadi saja.
+Penulis tidak menjamin ke-valid-an isi rangkuman ini, silakan cek sumber lebih lanjut, bertujuan sebagai dokumentasi diri pribadi saja.
 
 - Shalat tarawih maknanya istirahat, dari sahabat yg melihat Rasulullah Saw. shalat dengan memanjangkan bacaan, sujud, dan ruku' dengan 4 raka'at 4 raka'at lalu istirahat.
 - Shalat tarawih hukumnya sunnah, dilakukan 2 raka'at 2 raka'at, tidak ada batasan jumlah total, namun biasanya Rasulullah Saw. suka melakukannya 11 raka'at (2 raka'at x 5 ditambah 1 witir).
